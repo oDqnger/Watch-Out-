@@ -1,0 +1,10 @@
+make homescreen.
+	-play button
+	-settings
+	-quit
+	-how to play
+	-shop
+	^
+	------->upgrades, cosmetics (skins, env, upgrades, particles, cosmetics add ons, health, more energy, conserve less energy,)
+
+
